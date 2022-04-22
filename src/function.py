@@ -29,6 +29,13 @@ def multiply_nums(mult_digit1 , mult_digit2):
 multiply_nums(2 , 2)
 
 
+# divide function
+def divide_nums(div_digit1 , div_digit2):
+  divide_sum = div_digit1 / div_digit2
+  print(divide_sum)
+
+divide_nums(8 , 2)
+
 
 
 
