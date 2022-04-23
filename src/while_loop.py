@@ -1,5 +1,5 @@
-
-#declare a var is need for while loop
+# whil loop works on condition based 
+# declare a var is need for while loop
 
 count = 0
 
